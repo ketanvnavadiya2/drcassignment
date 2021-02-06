@@ -21,7 +21,7 @@ $ http://localhost:4200/
 
 Use given email id and password for login
 
-
+| key | value |	
 | ------ | ------ |
 | username | drcuser@gmail.com |
 | password | Admin@123 |
